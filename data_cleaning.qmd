@@ -1,0 +1,27 @@
+### Overview
+Many organisms, including plants, show patterns of change across seasons. 
+### Data Summary
+
+temperature (NEON.DP1.00002) accessed from [NEON](https://data.neonscience.org/data-products/DP1.00002.001)
+plant phenology (NEON.DP1.10055) accessed from [NEON](https://data.neonscience.org/data-products/DP1.10055.001)
+
+### Set up
+To download data directly from the NEON portal API, I used the `neonUtlities` package. 
+
+```{r}
+library(neonUtilities)
+library(dplyr)
+library(ggplot2)
+```
+### Downloading the data
+```{r}
+# Read data from data portal
+phe <- loadByProduct(dpID="DP1.10055.001", site=c("BLAN"),
+                     startdate="2017-01", enddate="2019-12",
+                     token = Sys.gettenv("NEON_TOKEN"),
+                     check-size = F
+                     )
+
+
+```
+
