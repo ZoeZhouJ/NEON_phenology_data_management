@@ -1,0 +1,322 @@
+"individualID","uid","date","eventID","patchOrIndividual","canopyPosition","plantStatus","stemDiameter","measurementHeight","maxCanopyDiameter","ninetyCanopyDiameter","patchSize","percentCover","height","diseaseType","obsYear"
+"NEON.PLA.D16.ABBY.06026","d87b4696-01ea-4ccd-8d73-d6c9dec62635",2020-10-07,NA,"Patch","Full shade","Live",NA,NA,NA,NA,1,85,1.1,NA,2020
+"NEON.PLA.D16.ABBY.06081","05e46f66-d0d5-4ff1-a523-82a58e2bc957",2020-10-07,NA,"Individual","Partially shaded","Live",15.2,130,4,3.7,NA,NA,9.2,NA,2020
+"NEON.PLA.D16.ABBY.06074","739df872-57c1-4123-9401-49f2bf164d51",2020-10-07,NA,"Individual","Partially shaded","Live",2.4,130,3,2.3,NA,NA,4.1,NA,2020
+"NEON.PLA.D16.ABBY.06007","320b5e40-d410-4637-badd-b6ed73574641",2020-10-07,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,100,1,NA,2020
+"NEON.PLA.D16.ABBY.06061","3f51c2c6-81b3-407f-95f2-b52a56eb8069",2020-10-07,NA,"Individual","Partially shaded","Live",55.2,130,9.6,8.8,NA,NA,37.4,NA,2020
+"NEON.PLA.D16.ABBY.06183","2b6d630e-2924-46c7-864f-492dc23a10dd",2020-10-07,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,70,0.7,NA,2020
+"NEON.PLA.D16.ABBY.06084","473f522a-97fe-4adb-986d-564ec2fff8bb",2020-10-07,NA,"Individual","Partially shaded","Live",14.5,130,4.1,37,NA,NA,9.6,NA,2020
+"NEON.PLA.D16.ABBY.06015","e91ec4e4-4470-48ef-b97d-c6aa64d5b079",2020-10-07,NA,"Individual","Full sun","Live",13.1,130,3.5,2.8,NA,NA,8.7,NA,2020
+"NEON.PLA.D16.ABBY.06080","09c1e71b-d076-4c11-9b9a-95fd6b846b7a",2020-10-07,NA,"Individual","Partially shaded","Live",1,130,2.1,1.3,NA,NA,2.7,NA,2020
+"NEON.PLA.D16.ABBY.06039","acc7cfec-3c28-49d1-a5d1-9324b31eca2b",2020-10-07,NA,"Individual","Mostly shaded","Live",2.9,10,0.5,0.7,NA,NA,0.8,NA,2020
+"NEON.PLA.D16.ABBY.06047","b1869387-879c-4f01-8ee8-c5904a53a56f",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,100,0.8,NA,2020
+"NEON.PLA.D16.ABBY.06062","613a81f2-b8cc-4321-870d-378c804cdc3b",2020-10-07,NA,"Patch","Full sun","Live",NA,NA,NA,NA,1,100,1,NA,2020
+"NEON.PLA.D16.ABBY.06048","d7f44019-f473-45a5-992f-291779260bb6",2020-10-07,NA,"Individual","Mostly shaded","Live",1.9,130,1,0.8,NA,NA,3.4,NA,2020
+"NEON.PLA.D16.ABBY.06055","f8678332-a9d8-4bc3-b786-b0eea1b1e7a0",2020-10-07,NA,"Individual","Partially shaded","Live",7.1,134,2.8,2.4,NA,NA,5.9,NA,2020
+"NEON.PLA.D16.ABBY.06035","30f1d754-8031-44b1-826a-33496ef21ed3",2020-10-07,NA,"Individual","Mostly shaded","Live",1.4,130,1.8,1.7,NA,NA,8.4,NA,2020
+"NEON.PLA.D16.ABBY.06085","d2047d6c-ad4c-4a4a-83e9-cf1753d22ba2",2020-10-07,NA,"Individual","Mostly shaded","Live",2.6,10,0.9,0.9,NA,NA,2,NA,2020
+"NEON.PLA.D16.ABBY.06016","017746ab-6d51-4059-a830-fba5277b02b0",2020-10-07,NA,"Individual","Mostly shaded","Live",1.8,10,1.5,0.6,NA,NA,1.4,NA,2020
+"NEON.PLA.D16.ABBY.06030","5121f3e7-b34e-449b-9cfd-1600d744b206",2020-10-07,NA,"Individual","Partially shaded","Live",12,130,3.5,3,NA,NA,9.1,NA,2020
+"NEON.PLA.D16.ABBY.06100","e60bdab6-e1b3-4a1a-ad64-5e91902c0da1",2020-10-07,NA,"Individual","Partially shaded","Live",9.4,130,3.4,3.3,NA,NA,8.4,NA,2020
+"NEON.PLA.D16.ABBY.06179","7ce6bdd9-751b-4946-b673-187781a6fce6",2020-10-07,NA,"Individual","Partially shaded","Live",3.1,130,1.6,1.6,NA,NA,3.8,NA,2020
+"NEON.PLA.D16.ABBY.06008","4a1e826f-9181-40b1-97ca-94dca4018660",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,75,0.7,NA,2020
+"NEON.PLA.D16.ABBY.06200","4176a7f2-3003-4500-a873-7f1bf42eb6ba",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,80,0.7,NA,2020
+"NEON.PLA.D16.ABBY.06065","3f090c7d-59df-4ecc-9ba9-7b923b65fe69",2020-10-07,NA,"Individual","Partially shaded","Live",1.2,130,2.7,1.3,NA,NA,3.1,NA,2020
+"NEON.PLA.D16.ABBY.06098","68fa9c8e-333b-45e6-953b-6c7635d6fc0d",2020-10-07,NA,"Individual","Mostly shaded","Live",1.1,130,2.7,1.7,NA,NA,2.4,NA,2020
+"NEON.PLA.D16.ABBY.06052","5b0ff273-dcaa-48e7-bfaa-0b544ec82a7a",2020-10-07,NA,"Individual","Full sun","Live",111.3,130,14.7,12.1,NA,NA,47.2,NA,2020
+"NEON.PLA.D16.ABBY.06034","444878d1-64ec-4f00-b055-6ae3baaaeb64",2020-10-07,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,100,0.7,NA,2020
+"NEON.PLA.D16.ABBY.06033","6c74d87f-0ce7-4afb-98f3-5604e95404d1",2020-10-07,NA,"Individual","Partially shaded","Live",2.5,130,3.2,2.9,NA,NA,3.8,NA,2020
+"NEON.PLA.D16.ABBY.06041","42d7f02f-c888-4aee-92d3-6af7c2a3784f",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,70,0.7,NA,2020
+"NEON.PLA.D16.ABBY.06177","73c26ee1-06e3-4171-8ac6-7037eb569440",2020-10-07,NA,"Individual","Partially shaded","Live, disease damaged",16.9,130,5.2,5,NA,NA,11.7,"Swiss needle cast",2020
+"NEON.PLA.D16.ABBY.06089","47badec2-994a-4ff4-9abb-eec708951ef9",2020-10-07,NA,"Individual","Mostly shaded","Live",1.4,130,1.2,1,NA,NA,3.1,NA,2020
+"NEON.PLA.D16.ABBY.06077","38fae105-f026-4d42-98b7-0f61587f0ae7",2020-10-07,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,90,0.8,NA,2020
+"NEON.PLA.D16.ABBY.06090","948eb2ba-c243-41ca-8343-11a56542f7a9",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,90,0.9,NA,2020
+"NEON.PLA.D16.ABBY.06029","674e5229-6af8-4009-9ecf-2e426ded58c2",2020-10-07,NA,"Individual","Full sun","Live",2,130,2.4,1.8,NA,NA,3.8,NA,2020
+"NEON.PLA.D16.ABBY.06028","2a3a9672-3d97-438c-aec5-a6362e4cf3f3",2020-10-07,NA,"Individual","Partially shaded","Live",17.9,130,4.9,4.5,NA,NA,8.7,NA,2020
+"NEON.PLA.D16.ABBY.06027","456fc0e0-317c-40be-9595-4f59d886fed1",2020-10-07,NA,"Individual","Partially shaded","Live",3.6,130,6,5,NA,NA,4.1,NA,2020
+"NEON.PLA.D16.ABBY.06073","38479537-0975-47ea-a818-137144245295",2020-10-07,NA,"Individual","Partially shaded","Live",17.9,130,5.3,4.9,NA,NA,10.7,NA,2020
+"NEON.PLA.D16.ABBY.06092","3349d02d-04ff-45ab-9836-188d396ad786",2020-10-07,NA,"Individual","Full sun","Live",1.9,130,2.8,2.1,NA,NA,3,NA,2020
+"NEON.PLA.D16.ABBY.06091","aed156ad-43ce-43e6-9eef-2cf9dcf46cda",2020-10-07,NA,"Individual","Partially shaded","Live",16,130,4.5,4.5,NA,NA,6.9,NA,2020
+"NEON.PLA.D16.ABBY.06003","0266163a-6495-4344-bf74-1be13e680f47",2020-10-07,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,100,1,NA,2020
+"NEON.PLA.D16.ABBY.06187","ca9cae88-238f-4ebf-b69e-3081665707a1",2020-10-07,NA,"Individual","Partially shaded","Live",18.7,155,5.5,5.2,NA,NA,10.5,NA,2020
+"NEON.PLA.D16.ABBY.06004","5f418b89-9de3-41f3-bb0a-c71c1f287890",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,80,0.8,NA,2020
+"NEON.PLA.D16.ABBY.06021","684af8c4-9bb9-4629-83c5-b521ada2cfe2",2020-10-07,NA,"Individual","Partially shaded","Live",89.9,130,11.3,10.7,NA,NA,39.7,NA,2020
+"NEON.PLA.D16.ABBY.06036","9f79c3b6-4ebb-405f-95e3-a1118b17282d",2020-10-07,NA,"Individual","Partially shaded","Live",8.1,136,3.3,2.9,NA,NA,6.5,NA,2020
+"NEON.PLA.D16.ABBY.06196","11af975e-66b3-45da-9698-ab4a62498dd6",2020-10-07,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,60,0.6,NA,2020
+"NEON.PLA.D16.ABBY.06095","d4dacade-a2a8-451b-bdc3-9a9067f0ef2f",2020-10-07,NA,"Individual","Partially shaded","Live",1.4,130,2.5,1,NA,NA,3.8,NA,2020
+"NEON.PLA.D16.ABBY.06051","a0899034-47fb-4bb4-8646-d4f4d7966d8f",2020-10-07,NA,"Individual","Partially shaded","Live",1.6,130,3,2.3,NA,NA,2.8,NA,2020
+"NEON.PLA.D16.ABBY.06063","9070c148-1e1a-444f-a044-253a4892e594",2020-10-07,NA,"Individual","Full sun","Live",1.9,130,4.7,4,NA,NA,3.3,NA,2020
+"NEON.PLA.D16.ABBY.06178","9fd7816b-b72c-4184-ba1b-8cffc020544b",2020-10-07,NA,"Individual",NA,"Live",14.8,135,3.8,3.2,NA,NA,9.3,NA,2020
+"NEON.PLA.D16.ABBY.06012","b03f565f-a500-4b4e-95f3-28021cdf8836",2020-10-07,NA,"Individual","Partially shaded","Live",2.4,130,3.3,2.5,NA,NA,4.4,NA,2020
+"NEON.PLA.D16.ABBY.06037","0648c0c1-2685-4470-9288-26cfd386fddc",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,50,0.8,NA,2020
+"NEON.PLA.D16.ABBY.06022","69f4258b-bf19-400c-89d2-26943980b524",2020-10-07,NA,"Individual","Full sun","Live",2.7,130,4.5,3.7,NA,NA,5.8,NA,2020
+"NEON.PLA.D16.ABBY.06070","7a71d5da-f7a4-4133-9b53-b025c18d6d56",2020-10-07,NA,"Individual","Partially shaded","Live",10.4,130,4,3.3,NA,NA,9.3,NA,2020
+"NEON.PLA.D16.ABBY.06045","04ea431f-528f-4795-84c5-ab796c89f92b",2020-10-07,NA,"Individual","Partially shaded","Live",9.7,130,3.3,2.7,NA,NA,8.7,NA,2020
+"NEON.PLA.D16.ABBY.06053","e8249366-75ea-49a4-866c-64b8c72ca9b8",2020-10-07,NA,"Individual","Partially shaded","Live",1.4,130,1.8,1.8,NA,NA,1.9,NA,2020
+"NEON.PLA.D16.ABBY.06198","e5529433-88ed-430b-bf8a-7dbe9a9b457a",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,100,0.9,NA,2020
+"NEON.PLA.D16.ABBY.06009","7684d48e-eb5a-47da-9ce7-1679f7ff91d3",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,65,0.8,NA,2020
+"NEON.PLA.D16.ABBY.06078","d1332611-d8fd-43b7-b135-c862bb42620e",2020-10-07,NA,"Individual","Mostly shaded","Live",1.7,130,3.1,1.6,NA,NA,4.1,NA,2020
+"NEON.PLA.D16.ABBY.06083","de5b0d43-6aca-4e6d-a70b-739a1073b69d",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,70,0.8,NA,2020
+"NEON.PLA.D16.ABBY.06071","b5ca919f-ea44-41b7-b3fb-55ba10033c51",2020-10-07,NA,"Individual","Mostly shaded","Live",3,10,1.9,1.7,NA,NA,2.4,NA,2020
+"NEON.PLA.D16.ABBY.06167","2c3feb93-09f1-4393-bf61-f29d21296020",2020-10-07,NA,"Individual","Partially shaded","Live",17.7,130,5.3,4.7,NA,NA,12.4,NA,2020
+"NEON.PLA.D16.ABBY.06088","647cee94-3373-46fe-a158-3bdb52b48cbb",2020-10-07,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,75,0.5,NA,2020
+"NEON.PLA.D16.ABBY.06069","136678e4-2357-4778-9a18-788480a1187e",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,55,1.1,NA,2020
+"NEON.PLA.D16.ABBY.06086","ebf7aeff-6072-4717-a16f-c3e38ef3034e",2020-10-07,NA,"Individual","Partially shaded","Live",15.6,130,4.4,4,NA,NA,9.5,NA,2020
+"NEON.PLA.D16.ABBY.06002","5d3e57d1-b4e9-4af4-9db9-eae2c0b1bf0b",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,95,1,NA,2020
+"NEON.PLA.D16.ABBY.06056","97f87cb3-48a9-4d14-9747-950590bfd24f",2020-10-07,NA,"Individual","Partially shaded","Live",2.6,10,1.1,1,NA,NA,1.7,NA,2020
+"NEON.PLA.D16.ABBY.06049","12e4f969-2e84-4e99-be42-57018366a1f4",2020-10-07,NA,"Individual","Partially shaded","Live",3.1,130,1.6,1.5,NA,NA,3.2,NA,2020
+"NEON.PLA.D16.ABBY.06099","6f76ff1d-7e12-4c7c-94aa-9a8154610d10",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,100,0.6,NA,2020
+"NEON.PLA.D16.ABBY.06043","4f5bb20a-4221-4df5-9c68-8954d2cccc92",2020-10-07,NA,"Individual","Partially shaded","Live",14.4,130,3.2,3.1,NA,NA,9.6,NA,2020
+"NEON.PLA.D16.ABBY.06094","437e330e-6f1b-4233-b9e5-a8202ebddf27",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,20,0.4,NA,2020
+"NEON.PLA.D16.ABBY.06046","33a7e7fd-49cb-4923-9bb6-fc25a72d6592",2020-10-07,NA,"Individual","Partially shaded","Live",2,130,3.1,2.7,NA,NA,3.9,NA,2020
+"NEON.PLA.D16.ABBY.06181","f6e8fc47-06b9-4499-81c3-e5d5622874e8",2020-10-07,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,80,0.6,NA,2020
+"NEON.PLA.D16.ABBY.06182","576d562f-90ec-4f86-839d-1b37160146dc",2020-10-07,NA,"Individual","Partially shaded","Live",3.7,130,5.7,5.7,NA,NA,4.7,NA,2020
+"NEON.PLA.D16.ABBY.06057","4662fa7a-3b6b-4369-b2b2-228f9204b5f4",2020-10-07,NA,"Individual","Partially shaded","Live",19.2,130,5.7,5.3,NA,NA,11,NA,2020
+"NEON.PLA.D16.ABBY.06076","c66775b3-53b7-4d3c-97d7-86ed0c775629",2020-10-07,NA,"Individual","Partially shaded","Live",14.5,136,4.7,4.5,NA,NA,9.7,NA,2020
+"NEON.PLA.D16.ABBY.06093","af45a597-ca37-4b3d-bc6d-bcb0d359fcdd",2020-10-07,NA,"Individual","Partially shaded","Live",12.1,130,4.1,4.4,NA,NA,7.4,NA,2020
+"NEON.PLA.D16.ABBY.06023","db9e3aef-421f-43b5-b224-585f6f8f93f1",2020-10-07,NA,"Individual","Full sun","Live",2.4,130,4.2,3.3,NA,NA,3.5,NA,2020
+"NEON.PLA.D16.ABBY.06087","fd667c08-6e3d-4cf9-b76e-ebd881eac80a",2020-10-07,NA,"Individual","Mostly shaded","Live",2.4,130,3.1,2.7,NA,NA,3.9,NA,2020
+"NEON.PLA.D16.ABBY.06064","fabcb566-923d-4f6f-846d-6c73332338b8",2020-10-07,NA,"Individual","Mostly shaded","Live",40.7,137,6.9,6,NA,NA,36.5,NA,2020
+"NEON.PLA.D16.ABBY.06018","66c5dfed-421b-448a-8322-fe41f87c7f77",2020-10-07,NA,"Individual","Full sun","Live",1.9,130,2.9,2.7,NA,NA,3.5,NA,2020
+"NEON.PLA.D16.ABBY.06005","61a52546-572b-4c03-986d-ec1e72cc5331",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,40,0.6,NA,2020
+"NEON.PLA.D16.ABBY.06192","86a134e3-3c3f-4b19-9059-7993388d3810",2020-10-07,NA,"Individual","Partially shaded","Live, disease damaged",17.7,130,5.3,5.1,NA,NA,10.8,"Swiss needle cast",2020
+"NEON.PLA.D16.ABBY.06068","6686dd3d-f701-422e-ae47-a8f36d09fd9f",2020-10-07,NA,"Individual","Mostly shaded","Live",3.4,10,0.9,0.9,NA,NA,3.4,NA,2020
+"NEON.PLA.D16.ABBY.06038","40585f92-2885-4c79-bbea-029967f2a55a",2020-10-07,NA,"Individual","Partially shaded","Live",12.1,140,4.1,4,NA,NA,9.8,NA,2020
+"NEON.PLA.D16.ABBY.06096","3e93f43f-a190-4910-8312-0ccd35883a86",2020-10-07,NA,"Individual","Partially shaded","Live",10.7,136,3.9,3.6,NA,NA,8.5,NA,2020
+"NEON.PLA.D16.ABBY.06197","78e8265c-83a0-44b1-9a5c-fee26cae3d63",2020-10-07,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,100,0.7,NA,2020
+"NEON.PLA.D16.ABBY.06013","3e782e3e-d785-4909-8fde-f1716b0d3244",2020-10-07,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,100,0.7,NA,2020
+"NEON.PLA.D16.ABBY.06042","e1505bbb-8cc2-444d-bf46-d01c10729213",2020-10-07,NA,"Individual","Partially shaded","Live",2.8,10,0.7,0.4,NA,NA,0.9,NA,2020
+"NEON.PLA.D16.ABBY.06006","6c440fca-9efd-4a52-bdbd-df4a8957570f",2020-10-07,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,95,1,NA,2020
+"NEON.PLA.D16.ABBY.06024","952a0c02-c59c-4c13-adfc-8ee059184890",2020-10-07,NA,"Individual","Partially shaded","Live, other damage",72.6,130,7.6,7.4,NA,NA,41.3,NA,2020
+"NEON.PLA.D16.ABBY.06066","a32e93d8-924b-4b33-a334-d699951c9b88",2020-10-07,NA,"Individual",NA,"Live",78.5,130,13.7,11.2,NA,NA,47.6,NA,2020
+"NEON.PLA.D16.ABBY.06019","db630cd1-43cd-48f4-bd2d-1bb4b5701e83",2020-10-07,NA,"Individual","Partially shaded","Live, physically damaged",83.7,130,14.7,11.6,NA,NA,40.1,NA,2020
+"NEON.PLA.D16.ABBY.06199","6e31aded-d520-4a7e-8a67-bc332fe3200f",2020-10-07,NA,"Patch","Full shade","Live",NA,NA,NA,NA,1,95,0.8,NA,2020
+"NEON.PLA.D16.ABBY.06010","d1521bc6-6e7b-4741-aadf-94c7f190ab53",2020-10-07,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,100,0.8,NA,2020
+"NEON.PLA.D16.ABBY.06299","1246a865-2fc2-4d53-a6b7-38274d99d4ce",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.2,0.2,NA,NA,0.4,NA,2021
+"NEON.PLA.D16.ABBY.06287","6c8749bb-03f8-4362-b4b2-e1af16d9f614",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.2,0.2,NA,NA,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06106","26adc6a3-0e3f-46ae-a597-798db61437de",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.1,0.1,NA,NA,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06290","83f3f0fe-2212-40a5-96f2-7433f4e6420c",2021-07-14,NA,"Individual",NA,"Live, physically damaged",NA,NA,0.1,0.1,NA,NA,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06109","46fb53dc-ecda-407e-b017-6e3e2296a5c0",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.1,0.1,NA,NA,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06295","e4fa8aea-be03-4de7-96b8-9a67321e3105",2021-07-14,NA,"Individual",NA,"Live, physically damaged",NA,NA,0.1,0.1,NA,NA,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06294","fc97924d-533e-46b0-aaab-8fc09e3f5131",2021-07-14,NA,"Individual",NA,"Live, physically damaged",NA,NA,0.1,0.1,NA,NA,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06282","42126c9e-76f7-4075-927a-096d0662bd5c",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.2,0.2,NA,NA,0.9,NA,2021
+"NEON.PLA.D16.ABBY.06296","19ceebb1-a057-46c4-a039-83612723253d",2021-07-14,NA,"Patch",NA,"Live",NA,NA,NA,NA,0.063,10,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06108","3db9c299-6259-4228-ae29-f489895c99e9",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.5,0.2,NA,NA,0.4,NA,2021
+"NEON.PLA.D16.ABBY.06297","d545db10-49a0-49cc-836f-fa113aa2bb87",2021-07-14,NA,"Individual",NA,"Live, insect damaged",NA,NA,0.3,0.3,NA,NA,1.3,NA,2021
+"NEON.PLA.D16.ABBY.06119","a026c3ce-3e6d-402e-83dc-b2c1b0fa8de6",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.3,0.2,NA,NA,0.7,NA,2021
+"NEON.PLA.D16.ABBY.06292","ad582ede-9844-4f1d-aa3f-e6d8ee67426b",2021-07-14,NA,"Patch",NA,"Live",NA,NA,NA,NA,0.063,10,0.2,NA,2021
+"NEON.PLA.D16.ABBY.06102","8fedfecd-4621-417c-a550-dc50b923fb0e",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.1,0.1,NA,NA,0.2,NA,2021
+"NEON.PLA.D16.ABBY.06116","96233c8a-630e-4000-a806-396af384fb36",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.1,0.1,NA,NA,0.4,NA,2021
+"NEON.PLA.D16.ABBY.06107","f35f3dc2-1064-4052-a9e0-126e566b2296",2021-07-14,NA,"Patch",NA,"Live",NA,NA,NA,NA,0.063,5,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06105","d06f9517-947e-4a5a-a253-ac03d6595fd3",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.4,0.2,NA,NA,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06298","d9387fa0-b17b-476e-900f-bfe91f4b8ba9",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.5,0.2,NA,NA,0.4,NA,2021
+"NEON.PLA.D16.ABBY.06291","2c42298d-efb5-43bd-8554-6514ed3d8d2e",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.1,0.1,NA,NA,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06114","b6cbbea5-fd69-43e4-b682-1a7e092cb6b1",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.2,0.1,NA,NA,0.6,NA,2021
+"NEON.PLA.D16.ABBY.06281","f4c2d020-5628-4b34-b839-6aeb97cb118d",2021-07-14,NA,"Individual",NA,"Live, physically damaged",NA,NA,0.1,0.1,NA,NA,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06118","fbca0bfc-7219-4886-8146-b509a0aad7ae",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.3,0.1,NA,NA,0.6,NA,2021
+"NEON.PLA.D16.ABBY.06104","4dd442bb-28ff-4df4-9596-646caed28c55",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.4,0.3,NA,NA,0.8,NA,2021
+"NEON.PLA.D16.ABBY.06300","34805406-9ee0-42dd-baec-900e670d86fa",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.5,0.2,NA,NA,0.8,NA,2021
+"NEON.PLA.D16.ABBY.06101","b5ab5adb-a023-466b-96ac-3c3e032632b6",2021-07-14,NA,"Individual",NA,"Live, insect damaged",NA,NA,0.1,0.1,NA,NA,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06288","24377e2b-7492-41cf-b723-d2bcf9985ded",2021-07-14,NA,"Patch",NA,"Live",NA,NA,NA,NA,0.063,10,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06103","4d7b4d78-9a01-4d09-a574-3544b8d92964",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.2,0.2,NA,NA,0.4,NA,2021
+"NEON.PLA.D16.ABBY.06111","f3420f1b-8d0d-4056-b381-7a2aa4e39ac3",2021-07-14,NA,"Individual",NA,"Live, insect damaged",NA,NA,0.3,0.3,NA,NA,0.9,NA,2021
+"NEON.PLA.D16.ABBY.06115","f52554a4-25cc-4d89-9ac8-517e307163ac",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.1,0.1,NA,NA,0.5,NA,2021
+"NEON.PLA.D16.ABBY.06117","02063f53-a7f4-443a-9f6d-b934cf36d32f",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.1,0.1,NA,NA,0.3,NA,2021
+"NEON.PLA.D16.ABBY.06285","1423574c-d79f-49d8-a1d4-d9f3e82a0a17",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.2,0.1,NA,NA,0.8,NA,2021
+"NEON.PLA.D16.ABBY.06113","78f7d32e-c505-4d0d-9502-6ce8d3f8f7bd",2021-07-14,NA,"Patch",NA,"Live",NA,NA,NA,NA,0.063,45,0.9,NA,2021
+"NEON.PLA.D16.ABBY.06293","633c10d9-a5f3-445e-b212-6df11e0d32f4",2021-07-14,NA,"Individual",NA,"Live, insect damaged",NA,NA,0.5,0.4,NA,NA,1.2,NA,2021
+"NEON.PLA.D16.ABBY.06110","b57b80fb-a974-401c-b926-b42db47e928b",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.2,0.1,NA,NA,0.3,NA,2021
+"NEON.PLA.D16.ABBY.06286","107c4d76-7b40-4df3-969a-ba6aaf99948c",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.1,0.1,NA,NA,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06112","151b14b8-6922-4621-b340-ed9d2ed2f750",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.1,0.1,NA,NA,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06284","3a27a0f6-835b-470a-be09-384d9c6928d2",2021-07-14,NA,"Individual",NA,"Live, physically damaged",NA,NA,0.1,0.1,NA,NA,0.1,NA,2021
+"NEON.PLA.D16.ABBY.06289","6bda9137-006e-4d88-b88c-e3c429e70a33",2021-07-14,NA,"Individual",NA,"Live, physically damaged",NA,NA,0.2,0.1,NA,NA,0.3,NA,2021
+"NEON.PLA.D16.ABBY.06283","2e03b543-2bac-42cf-9dd9-8a2333f79a3d",2021-07-14,NA,"Individual",NA,"Live",NA,NA,0.2,0.2,NA,NA,0.7,NA,2021
+"NEON.PLA.D16.ABBY.06154","e31dec88-c771-4e6b-a0c7-a192ecf47108",2021-09-15,NA,"Individual","Partially shaded","Live",1.5,130,3.9,4.7,NA,NA,3.1,NA,2021
+"NEON.PLA.D16.ABBY.06131","44e14bcb-b57d-45d1-b1a5-8a18a6f7e506",2021-09-15,NA,"Individual","Partially shaded","Live",1.3,130,1.8,1.6,NA,NA,3,NA,2021
+"NEON.PLA.D16.ABBY.06278","cbd484e0-c624-4086-aea0-caeaf311ad2a",2021-09-15,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,14,0.3,NA,2021
+"NEON.PLA.D16.ABBY.06046","f5e88db7-fb9a-427e-8555-cc83359f6590",2021-09-15,NA,"Individual","Partially shaded","Live",2.2,130,3.5,2.9,NA,NA,4.4,NA,2021
+"NEON.PLA.D16.ABBY.06145","50f6f94a-d33e-41f9-a584-1e91f7ec1257",2021-09-15,NA,"Individual","Mostly shaded","Live",3.2,130,2.6,2.3,NA,NA,3.9,NA,2021
+"NEON.PLA.D16.ABBY.06169","86b87a35-1123-483a-b947-e5c40100c9ba",2021-09-15,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,18,0.2,NA,2021
+"NEON.PLA.D16.ABBY.06128","5a5c74c7-1c0e-4455-99f4-e8ca0b8c96c5",2021-09-15,NA,"Individual","Mostly shaded","Live",1.4,10,0.9,0.8,NA,NA,1.3,NA,2021
+"NEON.PLA.D16.ABBY.06140","5ef0a294-6834-489d-9fde-503d847f413a",2021-09-15,NA,"Individual","Partially shaded","Live",1.3,130,2.3,2.1,NA,NA,2.5,NA,2021
+"NEON.PLA.D16.ABBY.06007","1bed0845-7c0a-4e47-a8a3-8fadc88fecf7",2021-09-15,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,100,1,NA,2021
+"NEON.PLA.D16.ABBY.06152","b444341f-dcfe-4d80-9cc6-8faa6d4c5312",2021-09-15,NA,"Individual","Partially shaded","Live",6.4,130,3.6,3.5,NA,NA,5.8,NA,2021
+"NEON.PLA.D16.ABBY.06153","e3f19377-0602-4c24-9e66-a83982d24e5b",2021-09-15,NA,"Individual","Full sun","Live",4.1,130,3.4,2.8,NA,NA,4.6,NA,2021
+"NEON.PLA.D16.ABBY.06124","7ea0f2ca-dadb-419f-b125-c50bed0d11a0",2021-09-15,NA,"Individual","Mostly shaded","Live",3.9,130,4.6,3.8,NA,NA,5.4,NA,2021
+"NEON.PLA.D16.ABBY.06090","6f6e1526-7f08-4995-9e39-98f6f3357496",2021-09-15,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,83,0.9,NA,2021
+"NEON.PLA.D16.ABBY.06135","c8d5e3fc-e548-4fe9-83f1-12e77041af5d",2021-09-15,NA,"Individual","Mostly shaded","Live",1.1,130,1.3,1.2,NA,NA,2.2,NA,2021
+"NEON.PLA.D16.ABBY.06015","502560d9-8c08-43e0-a4cb-10cfef15a72f",2021-09-15,NA,"Individual","Partially shaded","Live",14.3,130,3.9,3.9,NA,NA,9.9,NA,2021
+"NEON.PLA.D16.ABBY.06018","224a89fe-4d91-471c-8f2f-30f86dd02236",2021-09-15,NA,"Individual","Mostly shaded","Live",2.2,130,3.3,2.5,NA,NA,3.6,NA,2021
+"NEON.PLA.D16.ABBY.06148","459ed759-9bc3-40d8-b57e-76e5329a1382",2021-09-15,NA,"Individual","Mostly shaded","Live",1.1,130,2.1,1.1,NA,NA,2.2,NA,2021
+"NEON.PLA.D16.ABBY.06162","dc53f97c-3fb9-46bc-9cf6-7ccac46606e2",2021-09-15,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,78,0.2,NA,2021
+"NEON.PLA.D16.ABBY.06151","6f63318a-13bf-4dca-9dc1-929dbf0e8e50",2021-09-15,NA,"Individual","Mostly shaded","Live",1.1,130,2.7,1.9,NA,NA,2.2,NA,2021
+"NEON.PLA.D16.ABBY.06163","5c729b5f-2eea-4d71-b5a8-1901c36c1e10",2021-09-15,NA,"Individual","Full sun","Live",2.7,10,1.6,0.8,NA,NA,1.7,NA,2021
+"NEON.PLA.D16.ABBY.06156","b006bb50-4da7-4d57-829e-22f2afec450e",2021-09-15,NA,"Individual","Partially shaded","Live",3.7,130,2.2,2.1,NA,NA,5.5,NA,2021
+"NEON.PLA.D16.ABBY.06158","e495bf05-8d48-4c22-bfbd-ebb0281be829",2021-09-15,NA,"Individual","Partially shaded","Live",3.6,130,2.7,2.3,NA,NA,5.7,NA,2021
+"NEON.PLA.D16.ABBY.06161","811afde3-d370-42c4-a900-1efdf251d899",2021-09-15,NA,"Individual","Mostly shaded","Live",1.3,130,2,1.3,NA,NA,1.9,NA,2021
+"NEON.PLA.D16.ABBY.06132","4e66a6de-acb8-40bf-8f11-e7041ad37cb7",2021-09-15,NA,"Individual","Partially shaded","Live",3.7,130,3,2.4,NA,NA,3.9,NA,2021
+"NEON.PLA.D16.ABBY.06134","d1a714b1-9b7a-4650-9007-4fea743e4b61",2021-09-15,NA,"Individual","Mostly shaded","Live",2,130,2.2,1.9,NA,NA,2.7,NA,2021
+"NEON.PLA.D16.ABBY.06137","c94ec7c4-29aa-4697-a98f-1961344fe9d1",2021-09-15,NA,"Individual","Partially shaded","Live",2.6,130,1.6,1.5,NA,NA,3.3,NA,2021
+"NEON.PLA.D16.ABBY.06160","38ff9621-b547-49e5-a257-f80da6aceecb",2021-09-15,NA,"Individual","Mostly shaded","Live",2.4,130,2.4,1.7,NA,NA,3.4,NA,2021
+"NEON.PLA.D16.ABBY.06150","c971b42c-bdc4-421a-88cd-e3b1022604ec",2021-09-15,NA,"Individual","Partially shaded","Live",4.8,130,3.1,2.8,NA,NA,7.5,NA,2021
+"NEON.PLA.D16.ABBY.06141","d04dbbc9-0479-4585-b306-6ab77c78c9fb",2021-09-15,NA,"Individual","Partially shaded","Live",1.8,130,3.2,2.7,NA,NA,3.3,NA,2021
+"NEON.PLA.D16.ABBY.06122","a8c321f2-1fd5-472c-8109-d35ab6cc13b8",2021-09-15,NA,"Individual","Mostly shaded","Live",4.2,130,5.7,5.6,NA,NA,4.9,NA,2021
+"NEON.PLA.D16.ABBY.06178","51f69d77-16fa-420f-bb9a-98cfd4abf507",2021-09-15,NA,"Individual","Partially shaded","Live, physically damaged",16.3,135,4.3,4.1,NA,NA,9.9,NA,2021
+"NEON.PLA.D16.ABBY.06144","ae32be41-e7ec-4989-9f2a-95f555816c71",2021-09-15,NA,"Individual","Mostly shaded","Live",1.1,10,1.4,1.4,NA,NA,2.1,NA,2021
+"NEON.PLA.D16.ABBY.06149","de25c2b8-bd1d-4ed4-99d4-1feb20af5780",2021-09-15,NA,"Individual","Mostly shaded","Live",0.9,10,1.1,1,NA,NA,1.6,NA,2021
+"NEON.PLA.D16.ABBY.06197","da97736c-8b6a-4afd-b6da-ea354db4a9b8",2021-09-15,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,99,0.7,NA,2021
+"NEON.PLA.D16.ABBY.06130","6a2df0a5-7418-4e13-92b8-0716bd8c615d",2021-09-15,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,37,0.2,NA,2021
+"NEON.PLA.D16.ABBY.06159","d02ce58f-a1ec-4637-8da3-aa14c9730131",2021-09-15,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,29,0.4,NA,2021
+"NEON.PLA.D16.ABBY.06123","0761b799-791e-4d22-85fd-d11737de6995",2021-09-15,NA,"Individual","Mostly shaded","Live",9.5,130,4.5,3.9,NA,NA,7.1,NA,2021
+"NEON.PLA.D16.ABBY.06136","93da8e59-f570-48b2-bc84-ff2dfdd6110b",2021-09-15,NA,"Individual","Mostly shaded","Live",1.1,130,1.6,0.8,NA,NA,2.1,NA,2021
+"NEON.PLA.D16.ABBY.06165","b156a8b9-1ba9-4fb5-a2de-f2f07ca9c736",2021-09-15,NA,"Individual","Partially shaded","Live",3.9,130,3,2.7,NA,NA,6.4,NA,2021
+"NEON.PLA.D16.ABBY.06033","001bf438-351b-4ffd-87b1-f52b17896103",2021-09-15,NA,"Individual","Partially shaded","Live",2.7,130,3.8,3.5,NA,NA,3.9,NA,2021
+"NEON.PLA.D16.ABBY.06277","7ba2f227-0c33-469e-824f-4c9791119351",2021-09-15,NA,"Individual","Partially shaded","Live",1.4,10,0.8,0.6,NA,NA,2.3,NA,2021
+"NEON.PLA.D16.ABBY.06147","a8a6f51b-b4e2-4b1e-96ca-2559c87f9355",2021-09-15,NA,"Individual","Mostly shaded","Live",0.8,130,2,2.2,NA,NA,2.3,NA,2021
+"NEON.PLA.D16.ABBY.06074","f248aa0a-eb2d-4edd-b0fa-c675bde37083",2021-09-15,NA,"Individual","Mostly shaded","Live",2.7,130,2.9,2.4,NA,NA,4.9,NA,2021
+"NEON.PLA.D16.ABBY.06133","5d5bdac8-b8c2-4943-aa2b-86313664198d",2021-09-15,NA,"Individual","Mostly shaded","Live",1,130,2.5,1.9,NA,NA,1.9,NA,2021
+"NEON.PLA.D16.ABBY.06089","0eaec241-59b1-44e7-80e2-5363393f6e25",2021-09-15,NA,"Individual","Mostly shaded","Live",1.4,130,1.7,1.3,NA,NA,3.1,NA,2021
+"NEON.PLA.D16.ABBY.06120","4f4ef53a-7734-4229-8d95-5186d182568d",2021-09-15,NA,"Individual","Mostly shaded","Live",1.6,130,2,1.7,NA,NA,2.7,NA,2021
+"NEON.PLA.D16.ABBY.06139","09a23cf6-6c2f-49c0-b298-4a9c321409ef",2021-09-15,NA,"Individual","Partially shaded","Live",1.3,10,1,0.8,NA,NA,1.4,NA,2021
+"NEON.PLA.D16.ABBY.06142","891d45d5-021b-4f47-b0c7-6c356b7c2968",2021-09-15,NA,"Individual","Mostly shaded","Live, physically damaged",7.5,130,5.7,4.8,NA,NA,5.4,NA,2021
+"NEON.PLA.D16.ABBY.06052","87b3a06c-2664-4944-a155-3c8eb84c49ec",2021-09-15,NA,"Individual","Partially shaded","Live",112.2,130,15.3,13.1,NA,NA,47.7,NA,2021
+"NEON.PLA.D16.ABBY.06146","75bed133-a3e3-40be-ab6a-1c80129278d9",2021-09-15,NA,"Individual","Full shade","Live",1.7,10,1.4,1.4,NA,NA,1.4,NA,2021
+"NEON.PLA.D16.ABBY.06077","cf78898c-63f4-4b50-a1ea-794109532f00",2021-09-15,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,87,0.9,NA,2021
+"NEON.PLA.D16.ABBY.06003","6f422612-93d8-4e6d-82e5-34e2c7566dcf",2021-09-15,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,94,0.9,NA,2021
+"NEON.PLA.D16.ABBY.06164","0b810419-4651-427d-bd24-a5a70c5fd3a2",2021-09-15,NA,"Individual","Partially shaded","Live",4.2,130,2.9,2.8,NA,NA,4.7,NA,2021
+"NEON.PLA.D16.ABBY.06138","06a7a233-ae12-4dca-87f2-0fae626ce76e",2021-09-15,NA,"Individual","Partially shaded","Live",4.8,130,3.4,3.2,NA,NA,6.6,NA,2021
+"NEON.PLA.D16.ABBY.06187","8de69d37-e5fa-4fcf-b676-97e16932959f",2021-09-15,NA,"Individual","Partially shaded","Live, physically damaged",20.3,155,5.9,5.7,NA,NA,12.4,NA,2021
+"NEON.PLA.D16.ABBY.06126","04083ae5-dcec-4f9c-9037-96217ab2dae3",2021-09-15,NA,"Individual","Partially shaded","Live",1.1,130,4.7,3.5,NA,NA,0.9,NA,2021
+"NEON.PLA.D16.ABBY.06177","34d5d071-602e-42f4-a097-cb0fdf56c3fd",2021-09-15,NA,"Individual","Partially shaded","Live, physically damaged",18.2,130,4.9,4,NA,NA,12.3,NA,2021
+"NEON.PLA.D16.ABBY.06167","aa1291cd-45e5-435d-a7e0-5d2ea2bb7349",2021-09-15,NA,"Individual","Partially shaded","Live, physically damaged",22.2,130,5.5,5.4,NA,NA,12,NA,2021
+"NEON.PLA.D16.ABBY.06279","b5edbc53-594a-4eec-b0be-1afb767add83",2021-09-15,NA,"Individual","Mostly shaded","Live",1,130,2.3,1.2,NA,NA,1.2,NA,2021
+"NEON.PLA.D16.ABBY.06192","b9c4ccda-3886-492f-9435-c3a18f06a06a",2021-09-15,NA,"Individual","Partially shaded","Live, physically damaged",19.4,130,5.5,5.1,NA,NA,12.2,NA,2021
+"NEON.PLA.D16.ABBY.06143","4c9ba006-58f7-470f-a97c-ed3add24fb6e",2021-09-15,NA,"Individual","Partially shaded","Live",8.3,130,4.8,4.4,NA,NA,7.4,NA,2021
+"NEON.PLA.D16.ABBY.06091","040e786d-4007-4dc0-be7e-6a6e02189f50",2021-09-15,NA,"Individual","Partially shaded","Live, physically damaged",17.5,130,5.1,4.9,NA,NA,8.3,NA,2021
+"NEON.PLA.D16.ABBY.06155","7ee195a2-56c4-47e0-a758-01a3f5e372a8",2021-09-15,NA,"Individual","Partially shaded","Live",3.1,130,2.7,2.5,NA,NA,2.8,NA,2021
+"NEON.PLA.D16.ABBY.06294","270e663c-2f4c-4efa-b003-1cd9d427218a",2022-07-05,NA,"Patch","Full shade","Live",NA,NA,NA,NA,0.063,10,0.1,NA,2022
+"NEON.PLA.D16.ABBY.06118","32b0b7a2-c862-4993-8775-35ec94b87c3b",2022-07-05,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,0.063,2,0.3,NA,2022
+"NEON.PLA.D16.ABBY.06296","f685c5e0-92cd-4540-97a0-355e4330f2cc",2022-07-05,NA,"Patch","Full shade","Live",NA,NA,NA,NA,0.063,1,0,NA,2022
+"NEON.PLA.D16.ABBY.06111","38bf2bce-6d44-4f7f-b4b5-9d02d6c37f76",2022-07-05,NA,"Individual","Mostly shaded","Live",NA,NA,0.5,0.3,NA,NA,0.8,NA,2022
+"NEON.PLA.D16.ABBY.06119","b6c27649-2bdb-4994-b61f-50d8fd2781d4",2022-07-05,NA,"Individual","Mostly shaded","Live, other damage",NA,NA,0.1,0.1,NA,NA,0.5,NA,2022
+"NEON.PLA.D16.ABBY.06117","b14d9900-2362-41e7-b789-6ed4479be03d",2022-07-05,NA,"Individual","Mostly shaded","Live",NA,NA,0.1,0.1,NA,NA,0.6,NA,2022
+"NEON.PLA.D16.ABBY.06295","d4caadf6-ab31-4fd7-85ec-dcb391adb6f7",2022-07-05,NA,"Individual","Full shade","Live",NA,NA,0.1,0,NA,NA,0,NA,2022
+"NEON.PLA.D16.ABBY.06106","da3b486e-7ede-49e8-b45f-350396c01dec",2022-07-05,NA,"Patch","Full shade","Live",NA,NA,NA,NA,0.063,1,0.1,NA,2022
+"NEON.PLA.D16.ABBY.06291","9defd958-a82c-4003-8bdb-09bcc84922ef",2022-07-05,NA,"Patch","Full shade","Live",NA,NA,NA,NA,0.063,8,0.1,NA,2022
+"NEON.PLA.D16.ABBY.06282","3643c28e-06f3-4d9b-8d53-6a3c9a003696",2022-07-05,NA,"Individual","Mostly shaded","Live",NA,NA,0.2,0.2,NA,NA,0.9,NA,2022
+"NEON.PLA.D16.ABBY.06110","4be81901-c35a-49ec-b1b7-1a6a9559d5de",2022-07-05,NA,"Individual","Full shade","Live",NA,NA,0.3,0.3,NA,NA,0.7,NA,2022
+"NEON.PLA.D16.ABBY.06290","2da26612-7497-4e20-9ac9-81ce6f5249e2",2022-07-05,NA,"Individual","Full shade","Live",NA,NA,0.1,0.1,NA,NA,0.1,NA,2022
+"NEON.PLA.D16.ABBY.06299","5833d958-c349-4dd0-8f9e-628f2eafddb0",2022-07-05,NA,"Individual","Full shade","Live",NA,NA,0.1,0.1,NA,NA,0.2,NA,2022
+"NEON.PLA.D16.ABBY.06170","04b72773-a69f-47bf-b4e4-c6ae389ad8ac",2022-07-05,NA,"Individual","Mostly shaded","Live",NA,NA,0.1,0.1,NA,NA,0.2,NA,2022
+"NEON.PLA.D16.ABBY.06500","26fd5747-34d2-48a0-bab1-721f31cba187",2022-07-05,NA,"Individual","Mostly shaded","Live",NA,NA,0.2,0.1,NA,NA,0.5,NA,2022
+"NEON.PLA.D16.ABBY.06283","6a4ed184-6f2c-4380-ad41-04c004f0e0f6",2022-07-05,NA,"Individual","Mostly shaded","Live",NA,NA,0.3,0.2,NA,NA,0.7,NA,2022
+"NEON.PLA.D16.ABBY.06113","f1f97cd6-0279-4b22-af4b-95693b0c0372",2022-07-05,NA,"Patch","Mostly shaded",NA,NA,NA,NA,NA,0.063,6,0.1,NA,2022
+"NEON.PLA.D16.ABBY.06103","b6973517-4bc0-42d7-b8fc-7c3bc0e10868",2022-07-05,NA,"Individual","Mostly shaded","Live",NA,NA,0.1,0.1,NA,NA,0.4,NA,2022
+"NEON.PLA.D16.ABBY.06293","ebf55c8d-05b4-4577-8d24-dc2e79d7097c",2022-07-05,NA,"Individual","Full shade","Live",NA,NA,0.2,0.2,NA,NA,0.9,NA,2022
+"NEON.PLA.D16.ABBY.06297","f52848d5-010f-464c-a799-6ee8219cef1d",2022-07-05,NA,"Individual","Full shade","Live, insect damaged",NA,NA,0.2,0.1,NA,NA,0.5,NA,2022
+"NEON.PLA.D16.ABBY.06498","91f3b268-a784-417c-99c8-f4a944b4d7b7",2022-07-05,NA,"Individual","Full shade","Live",NA,NA,0.2,0.2,NA,NA,0.4,NA,2022
+"NEON.PLA.D16.ABBY.06102","451a78a1-e72c-4361-b83e-1e15cf012a1d",2022-07-05,NA,"Individual","Mostly shaded","Live",NA,NA,0.1,0.1,NA,NA,0.5,NA,2022
+"NEON.PLA.D16.ABBY.06114","cc00d928-f5ff-4e37-ac80-1d702b3a24bf",2022-07-05,NA,"Individual","Mostly shaded","Live",NA,NA,0.1,0.1,NA,NA,0.2,NA,2022
+"NEON.PLA.D16.ABBY.06107","16569289-65bc-40eb-9a77-589df31be7d1",2022-07-05,NA,"Patch","Full shade","Live",NA,NA,NA,NA,0.063,16,0.1,NA,2022
+"NEON.PLA.D16.ABBY.06289","e5307bb9-8e6a-4eea-b9b6-c65a1cce8466",2022-07-05,NA,"Individual","Full shade","Live",NA,NA,0.2,0.2,NA,NA,0.2,NA,2022
+"NEON.PLA.D16.ABBY.06284","5005ea02-5bab-42a9-908c-28f774215c1e",2022-07-05,NA,"Individual","Mostly shaded","Live",NA,NA,0.3,0.2,NA,NA,0.4,NA,2022
+"NEON.PLA.D16.ABBY.06115","ee004621-a651-4983-bfac-f63ce7cb2bde",2022-07-05,NA,"Individual","Mostly shaded","Live",NA,NA,0.1,0.1,NA,NA,0.3,NA,2022
+"NEON.PLA.D16.ABBY.06292","7945cf65-d55c-422c-9496-fecc06b7bc75",2022-07-05,NA,"Patch","Full shade","Live",NA,NA,NA,NA,0.063,1,0.1,NA,2022
+"NEON.PLA.D16.ABBY.06286","0382e6dd-0a8e-4b69-9d29-1a72b0bb71d9",2022-07-05,NA,"Patch","Full shade","Live",NA,NA,NA,NA,0.063,42,0.1,NA,2022
+"NEON.PLA.D16.ABBY.06298","20a63ab2-e64b-4ac2-9e8c-8b28cbbc5115",2022-07-05,NA,"Patch","Mostly shaded",NA,NA,NA,NA,NA,0.063,30,0.5,NA,2022
+"NEON.PLA.D16.ABBY.06499","2c8c2c7a-7b99-4935-8ed6-a9b20da042ce",2022-07-05,NA,"Individual","Mostly shaded","Live",NA,NA,0.3,0.2,NA,NA,1,NA,2022
+"NEON.PLA.D16.ABBY.06109","f09774c0-c31e-449b-90f4-67cd3edda4b9",2022-07-05,NA,"Individual","Full shade","Live",NA,NA,0.1,0.1,NA,NA,0.1,NA,2022
+"NEON.PLA.D16.ABBY.06288","9ae6a480-c1e7-4c20-bff2-7cff6fe239ed",2022-07-05,NA,"Patch","Full shade","Live",NA,NA,NA,NA,0.063,16,0.1,NA,2022
+"NEON.PLA.D16.ABBY.06108","143d2de3-71ea-435c-8151-3e8f28fc6b10",2022-07-05,NA,"Individual","Full shade","Live",NA,NA,0.2,0.2,NA,NA,0.3,NA,2022
+"NEON.PLA.D16.ABBY.06105","071f8a8b-c892-43c4-8793-646e9796feff",2022-07-05,NA,"Patch","Full shade","Live",NA,NA,NA,NA,0.063,17,0.1,NA,2022
+"NEON.PLA.D16.ABBY.06112","098ebca8-318e-412b-a4de-30e299bb4716",2022-07-05,NA,"Patch","Full shade","Live",NA,NA,NA,NA,0.063,12,0.1,NA,2022
+"NEON.PLA.D16.ABBY.06276","02e1ac28-ccf0-41bd-8ebf-51a9d0247b2c",2022-07-05,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,0.063,52,0.6,NA,2022
+"NEON.PLA.D16.ABBY.06287","ff38daa7-8306-4061-96a3-9f62edf38ebb",2022-07-05,NA,"Patch","Full shade","Live",NA,NA,NA,NA,0.063,2,0.1,NA,2022
+"NEON.PLA.D16.ABBY.06300","2082adfa-03be-4d47-8cf5-a306cbfc3fda",2022-07-05,NA,"Individual","Mostly shaded","Live",NA,NA,0.6,0.6,NA,NA,0.7,NA,2022
+"NEON.PLA.D16.ABBY.06300","c5fedc44-148f-4139-9b4f-4e249abf5a68",2023-06-15,NA,"Individual","Partially shaded","Live",1,10,0.3,0.2,NA,NA,0.9,NA,2023
+"NEON.PLA.D16.ABBY.06487","e22c1ee7-21f5-4482-a25b-1b6959784591",2023-06-15,NA,"Individual","Mostly shaded","Live",NA,NA,0.2,0.1,NA,NA,0.6,NA,2023
+"NEON.PLA.D16.ABBY.06114","9524f914-37ed-437e-beb6-ab76928c2f85",2023-06-15,NA,"Individual","Mostly shaded","Live",NA,NA,0.1,0.1,NA,NA,0.3,NA,2023
+"NEON.PLA.D16.ABBY.06499","46a9a311-96a4-494b-8fa7-5826f265de4c",2023-06-15,NA,"Individual","Mostly shaded","Live",NA,NA,0.3,0.3,NA,NA,1,NA,2023
+"NEON.PLA.D16.ABBY.06500","b62b6be0-c1b7-410e-86e1-cb770b65898a",2023-06-15,NA,"Individual","Mostly shaded","Live",NA,NA,0.2,0.1,NA,NA,0.5,NA,2023
+"NEON.PLA.D16.ABBY.06283","434f6d6a-93b8-4787-82e0-f84b79b6f15e",2023-06-15,NA,"Individual","Partially shaded","Live, physically damaged",NA,NA,0.1,0.1,NA,NA,0.4,NA,2023
+"NEON.PLA.D16.ABBY.06108","e895c58f-1e7d-44da-a1ec-351ccb658c92",2023-06-15,NA,"Individual","Full shade","Live",NA,NA,0.1,0.1,NA,NA,0.5,NA,2023
+"NEON.PLA.D16.ABBY.06110","c3bc7b96-7d22-44f9-b5b6-ded370a54072",2023-06-15,NA,"Individual","Full shade","Live",NA,NA,0.1,0.1,NA,NA,0.5,NA,2023
+"NEON.PLA.D16.ABBY.06119","7167b2d8-6b69-4ab3-a954-4055ae51d56a",2023-06-15,NA,"Individual","Partially shaded","Live, physically damaged",NA,NA,0.5,0.2,NA,NA,0.8,NA,2023
+"NEON.PLA.D16.ABBY.06284","fbe6d9ca-65a9-40f0-a7d8-32e198f274b4",2023-06-19,NA,"Individual","Full shade","Live",NA,NA,0.4,0.2,NA,NA,0.3,NA,2023
+"NEON.PLA.D16.ABBY.06276","5f2ea7e1-82ca-44bd-a9df-bca0bb5307c5",2023-07-03,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,0.063,14,0.9,NA,2023
+"NEON.PLA.D16.ABBY.06482","fd9e8c67-0a64-4bac-a83b-4607fc4a006d",2023-07-03,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,0.063,7,0.1,NA,2023
+"NEON.PLA.D16.ABBY.06171","5bb36d75-16dd-48b6-be04-12b5a8096b03",2023-07-03,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,0.063,8,0.8,NA,2023
+"NEON.PLA.D16.ABBY.06298","464050b8-4dd2-4973-b352-1eac0322c7ae",2023-07-03,NA,"Patch","Full shade","Live",NA,NA,NA,NA,0.063,5,0.2,NA,2023
+"NEON.PLA.D16.ABBY.06297","4f43b223-0080-4be7-b869-2d1b9b8c3592",2023-07-10,NA,"Individual","Partially shaded","Live, physically damaged",NA,NA,0.2,0.2,NA,NA,1,NA,2023
+"NEON.PLA.D16.ABBY.06102","beef8340-0942-4003-855f-a0478473eb57",2023-07-10,NA,"Individual","Full shade","Live",NA,NA,0.1,0.1,NA,NA,0.1,NA,2023
+"NEON.PLA.D16.ABBY.06117","ee759676-0a23-4060-b972-ce6a808a7803",2023-07-10,NA,"Individual","Mostly shaded","Live",NA,NA,0.1,0,NA,NA,0,NA,2023
+"NEON.PLA.D16.ABBY.06111","e6eff17b-5c1c-43db-abd7-14c494f67a34",2023-07-10,NA,"Individual","Mostly shaded","Live",NA,NA,0.3,0.3,NA,NA,1,NA,2023
+"NEON.PLA.D16.ABBY.06667","16993be9-213f-4551-9cc1-29b656bf5400",2023-07-10,NA,"Individual","Full shade","Live",NA,NA,0.1,0,NA,NA,0,NA,2023
+"NEON.PLA.D16.ABBY.06668","1e9f92a8-236b-456c-a78e-d1a2cfe02ba3",2023-07-10,NA,"Individual","Partially shaded","Live",NA,NA,0.2,0.2,NA,NA,0.6,NA,2023
+"NEON.PLA.D16.ABBY.06644","edc4ed46-6cb3-497b-95d4-3b382143c597",2023-07-10,NA,"Individual","Partially shaded","Live",NA,NA,0.3,0.3,NA,NA,0.9,NA,2023
+"NEON.PLA.D16.ABBY.06109","8230cdbf-9633-4a56-8294-6da306b50c24",2023-07-10,NA,"Individual","Full shade","Live",NA,NA,0,0,NA,NA,0,NA,2023
+"NEON.PLA.D16.ABBY.06282","8bbe4edc-d071-4d7f-8928-d4bc82382a2c",2023-07-10,NA,"Individual","Partially shaded","Live",NA,NA,0.2,0.2,NA,NA,1,NA,2023
+"NEON.PLA.D16.ABBY.06290","b2dd667e-583a-4858-a341-ff691bd3aca9",2023-07-10,NA,"Individual","Full shade","Live",NA,NA,0.1,0.1,NA,NA,0.1,NA,2023
+"NEON.PLA.D16.ABBY.06167","2f049f80-421e-4ce9-8739-14ccde0e506b",2023-09-12,NA,"Individual","Partially shaded","Live",25.2,130,6.5,6.1,NA,NA,14.3,NA,2023
+"NEON.PLA.D16.ABBY.06155","a5d08ad0-844a-403a-a9cb-94a88a8acc05",2023-09-12,NA,"Individual","Partially shaded","Live",3.5,134,3.7,2,NA,NA,3.7,NA,2023
+"NEON.PLA.D16.ABBY.06165","68293773-bed5-4e3f-820f-73ff332f0199",2023-09-12,NA,"Individual","Mostly shaded","Live",4.6,125,4.9,3.7,NA,NA,6.9,NA,2023
+"NEON.PLA.D16.ABBY.06090","77f2f93e-2ce8-4ca9-90a4-57520a3b7842",2023-09-12,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,78,1.1,NA,2023
+"NEON.PLA.D16.ABBY.06177","18917d97-26a9-4b86-a3d9-d8764c94f425",2023-09-12,NA,"Individual","Partially shaded","Live",20.6,122,5.7,4.9,NA,NA,14,NA,2023
+"NEON.PLA.D16.ABBY.06160","d0f842dc-fd1c-43ff-ae67-9ec4f090339a",2023-09-12,NA,"Individual","Mostly shaded","Live",2.6,130,2.4,1.5,NA,NA,3.1,NA,2023
+"NEON.PLA.D16.ABBY.06154","ac68bd84-b35c-44a7-a32b-b0ad40d53e3e",2023-09-12,NA,"Individual","Mostly shaded","Live",0.7,10,1.6,1.2,NA,NA,1.7,NA,2023
+"NEON.PLA.D16.ABBY.06192","a6fa0694-ffb9-4771-9d97-b87086e712e0",2023-09-12,NA,"Individual","Partially shaded","Live",22,123,7.2,6.3,NA,NA,14.8,NA,2023
+"NEON.PLA.D16.ABBY.06149","319f2867-7d23-47b2-a660-03bd370f3535",2023-09-12,NA,"Individual","Full shade","Unknown, did not emerge this sampling year",NA,NA,NA,NA,NA,NA,NA,NA,2023
+"NEON.PLA.D16.ABBY.06158","540ec57f-4e6b-4706-8c59-5e3bbdebc58e",2023-09-12,NA,"Individual","Partially shaded","Live, insect damaged",4.4,125,3.4,3.1,NA,NA,6,NA,2023
+"NEON.PLA.D16.ABBY.06187","589c65cf-3386-4c04-8033-326e11f9f6b1",2023-09-12,NA,"Individual","Partially shaded","Live",23.4,150,7.2,5.5,NA,NA,14.2,NA,2023
+"NEON.PLA.D16.ABBY.06162","8e91e63a-3575-49dd-9f4c-899d7829f05f",2023-09-12,NA,"Patch","Mostly shaded","Live",NA,NA,NA,NA,1,17,0.3,NA,2023
+"NEON.PLA.D16.ABBY.06164","b35fef36-2bb2-497e-88ff-a26dd213d5ef",2023-09-12,NA,"Individual","Partially shaded","Live",5.3,130,3.5,3.4,NA,NA,4.6,NA,2023
+"NEON.PLA.D16.ABBY.06163","16902726-8ee8-4463-b810-7adf0086b8ad",2023-09-12,NA,"Individual","Partially shaded","Live",1,130,1.7,0.5,NA,NA,1.9,NA,2023
+"NEON.PLA.D16.ABBY.06091","c6d0d55d-d6fe-4adc-8326-543332be1487",2023-09-12,NA,"Individual","Partially shaded","Live",20.4,130,5.1,4.7,NA,NA,12.2,NA,2023
+"NEON.PLA.D16.ABBY.06007","474209d4-b523-436c-8619-a12402697714",2023-09-12,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,96,1.2,NA,2023
+"NEON.PLA.D16.ABBY.06145","a45e10c9-9256-4bc9-93e3-fc99f3c03d0f",2023-09-12,NA,"Individual","Mostly shaded","Live",3.2,131,2.7,2.5,NA,NA,4,NA,2023
+"NEON.PLA.D16.ABBY.06161","ec724cc4-dfff-491a-b845-00ad0e29a62e",2023-09-12,NA,"Individual","Mostly shaded","Live",1.3,130,3.5,1.6,NA,NA,2.1,NA,2023
+"NEON.PLA.D16.ABBY.06159","f060f31c-eb46-4f11-ad86-8940e074e3d1",2023-09-12,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,5,14,NA,2023
+"NEON.PLA.D16.ABBY.06153","07ec8782-fad4-422c-badf-a9a79f75c002",2023-09-12,NA,"Individual","Partially shaded","Live",5,185,2.6,2.5,NA,NA,5.8,NA,2023
+"NEON.PLA.D16.ABBY.06148","41bcf9c8-146b-4c14-a20f-854a164082c4",2023-09-12,NA,"Individual","Mostly shaded","Live",1.4,130,1.2,0.9,NA,NA,0.8,NA,2023
+"NEON.PLA.D16.ABBY.06169","0868ea7b-d8c5-46f1-8444-798cb9749273",2023-09-12,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,2,0.3,NA,2023
+"NEON.PLA.D16.ABBY.06144","a2b5ab3d-a4a0-4678-8366-ab01de819ef0",2023-09-12,NA,"Individual","Full shade","Live",1.2,10,2.2,1.3,NA,NA,2.6,NA,2023
+"NEON.PLA.D16.ABBY.06141","141b01b9-c1ec-4274-b8fb-7e3070bbdb30",2023-09-12,NA,"Individual","Partially shaded","Live",2.8,130,3.5,2.8,NA,NA,3,NA,2023
+"NEON.PLA.D16.ABBY.06152","62a69252-72c8-4c22-a6ac-b2745f7240a7",2023-09-12,NA,"Individual","Partially shaded","Live",7.4,130,3.9,3.7,NA,NA,5.4,NA,2023
+"NEON.PLA.D16.ABBY.06146","cdd0d634-124d-4762-9e85-a63811463434",2023-09-12,NA,"Individual","Full shade","Live",2,10,1.4,1.1,NA,NA,1.7,NA,2023
+"NEON.PLA.D16.ABBY.06151","35023552-2493-491d-91ec-39bae77845da",2023-09-12,NA,"Individual","Full shade","Unknown, did not emerge this sampling year",NA,NA,NA,NA,NA,NA,NA,NA,2023
+"NEON.PLA.D16.ABBY.06140","045f0048-ac59-4a78-8d0e-d18627125855",2023-09-12,NA,"Individual","Partially shaded","Live",1.5,136,3.1,2.3,NA,NA,3.7,NA,2023
+"NEON.PLA.D16.ABBY.06077","d3bd6e5e-cc10-4e19-a773-981ca1b90e4f",2023-09-12,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,95,0.9,NA,2023
+"NEON.PLA.D16.ABBY.06089","1ddfe73d-23f0-490c-b960-7528e0cb2663",2023-09-12,NA,"Individual","Mostly shaded","Live",1.7,126,2.5,2.3,NA,NA,3.5,NA,2023
+"NEON.PLA.D16.ABBY.06142","1034f14a-ab82-4f51-a937-53674d2da458",2023-09-12,NA,"Individual","Mostly shaded","Live",7.8,135,4.6,3.9,NA,NA,4.6,NA,2023
+"NEON.PLA.D16.ABBY.06156","e20867af-abe5-4f16-8c50-818fe4e514bb",2023-09-12,NA,"Individual","Partially shaded","Live",4.3,130,2.3,1.8,NA,NA,6.3,NA,2023
+"NEON.PLA.D16.ABBY.06147","16dbe5e3-e124-4547-bee6-0b7834ad07e1",2023-09-12,NA,"Individual","Full shade","Live",1.2,10,2.2,1.2,NA,NA,2.1,NA,2023
+"NEON.PLA.D16.ABBY.06150","a7674027-3ad5-4a91-a122-61fecfd3895b",2023-09-12,NA,"Individual","Mostly shaded","Live",5.6,124,4.3,3.4,NA,NA,6.5,NA,2023
+"NEON.PLA.D16.ABBY.06074","592c025e-3dce-4e92-a69f-7ddb59b0fdb2",2023-09-12,NA,"Individual","Mostly shaded","Live",3,130,4.2,2.5,NA,NA,4.6,NA,2023
+"NEON.PLA.D16.ABBY.06497","0aa0289e-2327-47ab-ba0c-ee7d46116dc1",2023-09-12,NA,"Individual","Partially shaded","Live",4.5,130,3.6,2.8,NA,NA,6,NA,2023
+"NEON.PLA.D16.ABBY.06126","efea3a2c-7241-4905-85e2-65d0ccc2d35b",2023-09-18,NA,"Individual","Partially shaded","Live",0.7,10,0.4,0.2,NA,NA,0.5,NA,2023
+"NEON.PLA.D16.ABBY.06139","f775947c-ba4a-43e2-abd8-8e3c8c1a8167",2023-09-18,NA,"Individual","Partially shaded","Live",2,10,1,0.9,NA,NA,1.4,NA,2023
+"NEON.PLA.D16.ABBY.06003","78c26bb4-b23e-4567-a4c3-1e774cf58944",2023-09-18,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,98,1.1,NA,2023
+"NEON.PLA.D16.ABBY.06130","6f8b0758-c85b-414e-8a29-a5569292cf28",2023-09-18,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,16,0.2,NA,2023
+"NEON.PLA.D16.ABBY.06138","27d14f4b-90e3-43d2-888f-ab1336e9f2f8",2023-09-18,NA,"Individual","Full sun","Live",5.6,130,3.8,3.4,NA,NA,6,NA,2023
+"NEON.PLA.D16.ABBY.06122","5b6504e8-1ae1-4092-aa31-86e728e35aa2",2023-09-18,NA,"Individual","Mostly shaded","Live",4.6,130,5.3,3.9,NA,NA,5.9,NA,2023
+"NEON.PLA.D16.ABBY.06052","8892a7c1-5026-4d8f-902a-f8dab99e49af",2023-09-18,NA,"Individual","Full sun","Live",113.2,130,13.9,13.8,NA,NA,39.3,NA,2023
+"NEON.PLA.D16.ABBY.06135","5f5c24a5-633a-4bfe-a154-d74d7db214a1",2023-09-18,NA,"Individual","Partially shaded","Live",1.5,130,1.9,1.3,NA,NA,2.7,NA,2023
+"NEON.PLA.D16.ABBY.06642","8d1b7b7e-9d85-4945-8fb9-86ae6b8e7c7f",2023-09-18,NA,"Individual","Full shade","Live",1.9,10,2.3,1.6,NA,NA,1.9,NA,2023
+"NEON.PLA.D16.ABBY.06132","0c45b73a-93fb-4a20-8720-65aef1447d0a",2023-09-18,NA,"Individual","Full sun","Live",4.2,119,2.8,2.8,NA,NA,3.3,NA,2023
+"NEON.PLA.D16.ABBY.06133","792e4e04-077c-4f9e-add1-0ce319659f36",2023-09-18,NA,"Individual","Partially shaded","Live",1.1,135,2.3,1.6,NA,NA,3,NA,2023
+"NEON.PLA.D16.ABBY.06279","3161a5a5-6b8e-4daa-ade5-df273d1e741a",2023-09-18,NA,"Individual","Mostly shaded","Live",0.3,10,0.2,0.2,NA,NA,0.4,NA,2023
+"NEON.PLA.D16.ABBY.06046","24fe84a9-908c-4191-96e2-6f3bf48a14df",2023-09-18,NA,"Individual","Full sun","Live",2.1,130,3.3,1.8,NA,NA,3.3,NA,2023
+"NEON.PLA.D16.ABBY.06137","a197dd04-c97b-43fc-a34e-c7ea1b55abf3",2023-09-18,NA,"Individual","Full sun","Live",4.5,130,2.2,2.2,NA,NA,4,NA,2023
+"NEON.PLA.D16.ABBY.06136","a82ee758-85ea-42d5-b21c-c264ea120fdf",2023-09-18,NA,"Individual","Partially shaded","Live",1.4,130,1.8,1.2,NA,NA,1.7,NA,2023
+"NEON.PLA.D16.ABBY.06131","65d6569c-b72f-4e47-be77-fdfc9a97c14f",2023-09-18,NA,"Individual","Partially shaded","Live",1.7,130,1.9,1.7,NA,NA,2.9,NA,2023
+"NEON.PLA.D16.ABBY.06120","d7acc0ca-6e18-4630-8db8-37350dab1d56",2023-09-18,NA,"Individual","Partially shaded","Live",2.1,140,1.5,1.2,NA,NA,2.4,NA,2023
+"NEON.PLA.D16.ABBY.06134","5a7be374-6f5c-47de-9270-034aa9efb3af",2023-09-18,NA,"Individual","Partially shaded","Live",2.4,130,2.5,2.1,NA,NA,2.7,NA,2023
+"NEON.PLA.D16.ABBY.06278","447487e8-1fb1-4195-8946-9c33faf0ca32",2023-09-18,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,26,0.5,NA,2023
+"NEON.PLA.D16.ABBY.06197","848b3e90-6aac-4fc5-bfeb-954827e1a837",2023-09-18,NA,"Patch","Partially shaded","Live",NA,NA,NA,NA,1,98,0.7,NA,2023
+"NEON.PLA.D16.ABBY.06015","33cef1ed-3a12-459e-9202-d069741d3a05",2023-09-18,NA,"Individual","Full sun","Live",16.8,130,4.8,3.4,NA,NA,11.6,NA,2023
+"NEON.PLA.D16.ABBY.06033","c7ee6ba2-ca0b-447d-aa0b-55dd236b4e33",2023-09-18,NA,"Individual","Partially shaded","Live",2.8,136,4.4,4,NA,NA,3.9,NA,2023
+"NEON.PLA.D16.ABBY.06018","c6e6a43e-4081-45b8-9097-60c397f8280b",2023-09-18,NA,"Individual","Partially shaded","Live",2.4,130,2.9,2.3,NA,NA,3.6,NA,2023
+"NEON.PLA.D16.ABBY.06277","c41c150a-28e2-4cec-8b6c-f8b546a5499b",2023-09-18,NA,"Individual","Full sun","Live",1.7,10,0.9,0.8,NA,NA,2.4,NA,2023
+"NEON.PLA.D16.ABBY.06124","5c9164e4-c9a1-434b-acac-54bc3cf0dc3d",2023-09-18,NA,"Individual","Mostly shaded","Live",3.6,150,6.3,1.5,NA,NA,3.8,NA,2023
+"NEON.PLA.D16.ABBY.06123","afde210c-7c14-48de-a0a8-a3b3e24b937b",2023-09-18,NA,"Individual","Partially shaded","Live",10.7,130,4.8,2.9,NA,NA,6.8,NA,2023
+"NEON.PLA.D16.ABBY.06178","f6ddaa11-c360-4c61-8308-594d1467c165",2023-09-18,NA,"Individual","Full sun","Live",18.9,139,4.5,4.3,NA,NA,11.2,NA,2023

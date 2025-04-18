@@ -12,16 +12,161 @@ To download data directly from the NEON portal API, I used the `neonUtlities` pa
 library(neonUtilities)
 library(dplyr)
 library(ggplot2)
+library(lubridate)
+
+# define token
+NEON_TOKEN <- "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJhdWQiOiJodHRwczovL2RhdGEubmVvbnNjaWVuY2Uub3JnL2FwaS92MC8iLCJzdWIiOiJqaWFydWl6aG91QHVjc2IuZWR1Iiwic2NvcGUiOiJyYXRlOnB1YmxpYyIsImlzcyI6Imh0dHBzOi8vZGF0YS5uZW9uc2NpZW5jZS5vcmcvIiwiZXhwIjoxOTAxNDkxMDk2LCJpYXQiOjE3NDM4MTEwOTYsImVtYWlsIjoiamlhcnVpemhvdUB1Y3NiLmVkdSJ9.CdVIphHnpVNBBhD471tRAkBgRnF7NQsZAsuYkACY2R21igMok90owkSXeqaRVqiRm6DEWoKS_jUgtR74VfBaDQ"
+
 ```
 ### Downloading the data
 ```{r}
-# Read data from data portal
-phe <- loadByProduct(dpID="DP1.10055.001", site=c("BLAN"),
-                     startdate="2017-01", enddate="2019-12",
-                     token = Sys.gettenv("NEON_TOKEN"),
-                     check-size = F
-                     )
+# Read plant data from data portal
+plant <- loadByProduct(dpID = "DP1.10055.001", site=c("ABBY"), 
+										 startdate = "2020-01", enddate="2023-12", 
+										 token = Sys.getenv("NEON_TOKEN"),
+										 check.size = F) 
+
+# Read temp data from portal
+
+temp <- loadByProduct(dpID="DP1.00002.001", site="ABBY", 
+                      startdate="2021-01", enddate="2023-12", 
+                      package="basic", timeIndex="30",
+                      check.size = T)
+
+```
+```{r}
+# Save dataframes from the downloaded list
+ind <- plant$phe_perindividual  
+status <- plant$phe_statusintensity 
+year <- plant$phe_perindividualperyear
+```
+
+## Exploratory Data Analysis
+```{r}
+# how many rows are in the data?
+nrow(ind)
+
+# look at the first six rows of data.
+#head(ind) #this is a good function to use but looks messy so not rendering it 
+
+# look at the structure of the dataframe.
+str(ind)
+```
 
 
+```{r}
+# What variables are included in this dataset?
+names(status)
+nrow(status)
+#head(status)   #this is a good function to use but looks messy so not rendering it 
+str(status)
+```
+
+## Clean ind table
+Keep core columns
+```{r}
+ind_core <- ind %>% 
+  select(
+    uid, individualID,
+    namedLocation, domainID, siteID, plotID,
+    decimalLatitude, decimalLongitude, elevation, subtypeSpecification,
+    taxonID, taxonRank, scientificName, nativeStatusCode, growthForm,
+    date, editedDate
+  )
+
+```
+
+# Keep only unique record of plant individuals in ind and status table
+```{r}
+# drop UID as that will be unique for duplicate records
+#ind_clean <- select(ind_core, -(uid))
+
+# remove duplicates
+## expect many
+
+ind_clean <- distinct(ind_clean)
+nrow(ind_noD)
+```
+
+# Cleaning up individual table
+Each individual plant has been recorded multiple times, Im going to retain the most recent date
+```{r}
+# retain only the max of the date for each individualID
+ind_date <- ind_clean %>%
+	group_by(individualID) %>%
+	filter(editedDate==max(editedDate))
+
+# oh wait, duplicate dates, retain only the most recent editedDate
+ind_cleaned <- ind_date %>%
+	group_by(editedDate, individualID) %>%
+	filter(row_number()==1) 
+```
+
+Save table to directory
+```{r}
+write.csv(ind_cleaned , file="phenology_csv/phe_perindividual.csv", row.names=F)
+```
+
+## Clean status table
+```{r}
+#str(status)
+str(unique(status$individualID))
+str(unique(status$uid))
+```
+Individuals are repeated 
+```{r}
+# For 'status' table (phenophase status & intensity)
+status_core <- status %>%
+  select(
+  individualID, date, eventID, phenophaseName, phenophaseStatus,   phenophaseIntensityDefinition, phenophaseIntensity,remarks    
+  ) %>% 
+  mutate(obsYear = year(date))
+
+status_cleaned<-distinct(status_core)
+nrow(status_cleaned)
+glimpse(status_cleaned)
+```
+Save table to directory
+```{r}
+write.csv(status_cleaned , file="phenology_csv/phe_statusintensity.csv", row.names=F)
+```
+
+```{r}
+str(unique(year$individualID))
+str(unique(year$uid))
+
+```
+
+### Clean year table
+```{r}
+# For 'year' table (annual census)
+year_core <- year %>%
+  select(
+    individualID, uid,
+    date, eventID,
+    patchOrIndividual, canopyPosition, plantStatus,
+    stemDiameter, measurementHeight,
+    maxCanopyDiameter, ninetyCanopyDiameter,
+    patchSize, percentCover, height, diseaseType
+  ) %>% 
+  mutate(obsYear = year(date))
+
+year_cleaned<-distinct(year_core)
+nrow(year_cleaned)
+nrow(year_core)
+```
+
+```{r}
+write.csv(year_cleaned , file="phenology_csv/phe_perindividualperyear.csv", row.names=F)
+```
+
+```{r}
+glimpse(ind_cleaned)
+```
+```{r}
+glimpse(status_cleaned)
+```
+```{r}
+glimpse(year_cleaned)
 ```
 
