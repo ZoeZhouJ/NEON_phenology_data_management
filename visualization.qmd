@@ -1,0 +1,66 @@
+---
+title: Plant Phenology Data Visualization
+author: "Zoe Zhou"
+date: today
+format: 
+  html:
+    code-fold: true
+    embed-resources: true
+    toc: true
+execute:
+  warning: false
+  message: false
+theme: minty
+---
+## Set up
+```{r}
+library(tidyverse)
+library(DBI)
+library(duckdb)
+library(dbplyr)
+```
+
+## Establishing a connection to the database and check for tables
+```{r}
+conn <- DBI::dbConnect(duckdb::duckdb(), dbdir="database/phenology.db")
+DBI::dbListTables(conn)
+```
+
+## Load the data
+```{r}
+plant <- tbl(conn, "plant")
+census <- tbl(conn, "census")
+```
+
+## Join tables and prepare for visualization
+- inner join two tables
+- filter for "Open flowers" and "yes" in the phenophase table
+- extract month from date in phenophase table
+- plot month on the x-axis and count of individuals by species on the yaxis 
+```{r}
+
+# Create the joined dataset 
+plant_census <- 
+  inner_join(plant, census, by="individualID") %>% 
+  filter(!is.na(stemDiameter), !is.na(height)) %>% 
+  group_by(growthForm) 
+```
+
+## Plotting
+
+```{r}
+# plot
+plot <- ggplot(plant_census, aes(x=stemDiameter, y=height, color=growthForm)) +
+  geom_point(alpha=0.7) +
+  scale_x_log10(labels = scales::comma) +
+  scale_y_log10(labels = scales::comma) +
+  labs(
+    title = "Plant Height vs. Stem Diameter",
+    x = "Stem Diameter (cm)",
+    y = "Height (cm)",
+    color = "Growth Form"
+  ) +
+  theme_minimal()
+plot
+```
+

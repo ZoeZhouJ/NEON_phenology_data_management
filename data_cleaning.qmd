@@ -13,7 +13,9 @@ library(neonUtilities)
 library(dplyr)
 library(ggplot2)
 library(lubridate)
+```
 
+```{r}
 # define token
 NEON_TOKEN <- "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJhdWQiOiJodHRwczovL2RhdGEubmVvbnNjaWVuY2Uub3JnL2FwaS92MC8iLCJzdWIiOiJqaWFydWl6aG91QHVjc2IuZWR1Iiwic2NvcGUiOiJyYXRlOnB1YmxpYyIsImlzcyI6Imh0dHBzOi8vZGF0YS5uZW9uc2NpZW5jZS5vcmcvIiwiZXhwIjoxOTAxNDkxMDk2LCJpYXQiOjE3NDM4MTEwOTYsImVtYWlsIjoiamlhcnVpemhvdUB1Y3NiLmVkdSJ9.CdVIphHnpVNBBhD471tRAkBgRnF7NQsZAsuYkACY2R21igMok90owkSXeqaRVqiRm6DEWoKS_jUgtR74VfBaDQ"
 
@@ -118,7 +120,7 @@ Individuals are repeated
 # For 'status' table (phenophase status & intensity)
 status_core <- status %>%
   select(
-  individualID, date, eventID, phenophaseName, phenophaseStatus,   phenophaseIntensityDefinition, phenophaseIntensity,remarks    
+  individualID, uid, date, eventID, phenophaseName, phenophaseStatus,   phenophaseIntensityDefinition, phenophaseIntensity,remarks    
   ) %>% 
   mutate(obsYear = year(date))
 
@@ -166,7 +168,15 @@ glimpse(ind_cleaned)
 ```{r}
 glimpse(status_cleaned)
 ```
+
 ```{r}
 glimpse(year_cleaned)
+```
+```{r}
+# Check output
+plant <- read.csv("./phenology_csv/phe_perindividual.csv")
+census <- read.csv("./phenology_csv/phe_perindividualperyear.csv")
+phenophase_obs <- read.csv("./phenology_csv/phe_statusintensity.csv")
+
 ```
 
