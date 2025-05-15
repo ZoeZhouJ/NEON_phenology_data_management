@@ -31,19 +31,20 @@ DBI::dbListTables(conn)
 plant <- tbl(conn, "plant")
 census <- tbl(conn, "census")
 ```
+## Research question
+Is there a relationship between plant height and stem diameter across different growth forms?
 
 ## Join tables and prepare for visualization
-- inner join two tables
-- filter for "Open flowers" and "yes" in the phenophase table
-- extract month from date in phenophase table
-- plot month on the x-axis and count of individuals by species on the yaxis 
+- inner join annual census data with plant data
+- filter out missing values for stem diameter and height
+- group by growth form
 ```{r}
 
 # Create the joined dataset 
-plant_census <- 
-  inner_join(plant, census, by="individualID") %>% 
+plant_census <- inner_join(plant, census, by="individualID") %>% 
   filter(!is.na(stemDiameter), !is.na(height)) %>% 
-  group_by(growthForm) 
+  group_by(growthForm) %>% 
+  show_query() 
 ```
 
 ## Plotting
